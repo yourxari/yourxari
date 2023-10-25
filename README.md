@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">I'm ARI, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm ARI, a full-time full-stack hacker 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on my own startup  
   
 
-- 🌱 I’m currently learning Penetration Testing & JS  
+- 🌱 I’m currently learning Penetration Testing & Python , JS  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to penetration testing and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
